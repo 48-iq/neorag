@@ -122,11 +122,26 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HaVJ9prDHxD8RvLKkx8R" name="Страница-3">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="HaVJ9prDHxD8RvLKkx8R" name="backend">
+    <mxGraphModel dx="2241" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ULlnTurN4azAZK8LXFWl-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="web app пользовательское" vertex="1">
+          <mxGeometry height="60" width="120" x="-120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YGgQ7KylH1R6UMwAoflu-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="web app&lt;div&gt;администратора&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YGgQ7KylH1R6UMwAoflu-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="API Gateway (Nginx)" vertex="1">
+          <mxGeometry height="60" width="880" x="-120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="YGgQ7KylH1R6UMwAoflu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Admin service&lt;br&gt;&lt;br&gt;&lt;div&gt;изменение настроек приложения, баны, выдача привелегий&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" x="590" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="YGgQ7KylH1R6UMwAoflu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="User service&lt;br&gt;&lt;br&gt;&lt;div&gt;организация и хранение пользователей&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="186" x="294" y="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
