@@ -126,7 +126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HaVJ9prDHxD8RvLKkx8R" name="backend">
-    <mxGraphModel dx="2241" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2491" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,8 +145,26 @@
         <mxCell id="YGgQ7KylH1R6UMwAoflu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="User service&lt;br&gt;&lt;br&gt;&lt;div&gt;организация и хранение пользователей&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="186" x="290" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="MqFHCjzRng3sBDhMN9Ls-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="160" width="180" x="-110" y="390" as="geometry" />
+        <mxCell id="MqFHCjzRng3sBDhMN9Ls-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Space service&lt;br&gt;&lt;br&gt;&lt;div&gt;управление пространствами документов&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135" width="200" x="20" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="veMDZgkr6MXm4qTE3y-E-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Schema service&amp;nbsp;&lt;div&gt;&lt;br&gt;управление схемами парсинга документов&lt;/div&gt;" vertex="1">
+          <mxGeometry height="165" width="200" x="-170" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="veMDZgkr6MXm4qTE3y-E-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Document service&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;хранение оригиналов документов&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="-320" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="veMDZgkr6MXm4qTE3y-E-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AI model service&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;управление доступом к моделям&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="216" x="294" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="veMDZgkr6MXm4qTE3y-E-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chat service&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;организация чатов&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="250" x="100" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="veMDZgkr6MXm4qTE3y-E-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RAG agent service&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;поиск информации&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="520" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="veMDZgkr6MXm4qTE3y-E-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Document processing pipeline&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;сервисы обработки документов после загрузки&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="260" x="-350" y="800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
