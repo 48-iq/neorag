@@ -126,7 +126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HaVJ9prDHxD8RvLKkx8R" name="backend">
-    <mxGraphModel dx="3184" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2398" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,6 +302,19 @@
             </Array>
             <mxPoint x="1364" y="770" as="sourcePoint" />
             <mxPoint x="800" y="947" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDCwdtOeUWhT1gKl1cq--18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Stat service" vertex="1">
+          <mxGeometry height="110" width="210" x="1040" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="QDCwdtOeUWhT1gKl1cq--20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="stat event topic" vertex="1">
+          <mxGeometry height="50" width="120" x="760" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="QDCwdtOeUWhT1gKl1cq--22" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1574" y="910" as="sourcePoint" />
+            <mxPoint x="980" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
